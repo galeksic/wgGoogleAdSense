@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha",
+			"Shirayuki",
+			"The Evil IP address",
+			"Umherirrender"
+		]
+	},
+	"googleadsense": "{{notranslate}} Header in the sidebar the Google AdSense box appears under.",
+	"googleadsense-name": "{{optional}} Name of the extension on [[Special:Version]].",
+	"googleadsense-desc": "{{desc|name=Google AdSense|url=https://www.mediawiki.org/wiki/Extension:GoogleAdSense}}"
+}
